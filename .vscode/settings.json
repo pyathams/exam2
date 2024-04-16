@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"FT_STRPBRK.C": "cpp",
+		"stdlib.h": "c"
+	}
+}
